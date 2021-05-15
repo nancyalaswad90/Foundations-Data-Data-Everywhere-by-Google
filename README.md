@@ -1,6 +1,6 @@
 .
 
-# [Google Data Analytics Certificate](https://grow.google/dataanalytics/#?modal_active=none)
+# [Google Data Analytics Certificate](https://www.coursera.org/learn/foundations-data/home/welcome)
 
 
 
