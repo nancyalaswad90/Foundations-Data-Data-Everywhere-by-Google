@@ -1,6 +1,6 @@
 .
 
-# [Google Data Analytics Certificate](https://www.coursera.org/learn/foundations-data/home/welcome)
+# [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 
 
